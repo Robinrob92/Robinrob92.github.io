@@ -8,7 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://Robinrob92.github.io/Robin_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sentiment Analysis of tweets about the vaccin Pfizer</title>
+      <title>Data Scientist VS Data Analyst: What are the differences ?</title>
+      <link>https://Robinrob92.github.io/Robin_Portfolio/post/project4/</link>
+      <pubDate>Thu, 14 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://Robinrob92.github.io/Robin_Portfolio/post/project4/</guid>
+      <description>I completed this project for my first Kaggle&amp;rsquo;s competition &amp;ldquo;Machine Learning Survey 2020&amp;rdquo;, I decided to focus my project on the main distinction between the Data Analyst and Data Scientist who answered the survey.
+Composition of dataset:   Age distribution: The population of Data Scientist and Data Analyst is quite young the majority of the respondents are under 35 years old.
+  Highest degree distribution: For both populations we can see an important part graduated with a master degree.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis of tweets about the Pfizer&#39;s Covid 19 vaccine</title>
       <link>https://Robinrob92.github.io/Robin_Portfolio/post/project1/</link>
       <pubDate>Thu, 19 Nov 2020 11:00:59 -0400</pubDate>
       
@@ -22,7 +33,7 @@
       <pubDate>Mon, 16 Nov 2020 11:00:59 -0400</pubDate>
       
       <guid>https://Robinrob92.github.io/Robin_Portfolio/post/project2/</guid>
-      <description>Created a model to predict the turnover in a company Explored a visualized the Dataset with Matplotlib, pandas and Numpy Processed and encoded the categorical feature to train a machine Learning Model Selected and trained a Random Forest Classifier Tuned and improved the model to a precision of 0.98    Link to Github repository</description>
+      <description>Created a model to predict the turnover in a company Explored and visualized the Dataset with Matplotlib, pandas and Numpy Processed and encoded the categorical feature to train a machine Learning Model Selected and trained a Random Forest Classifier Tuned and improved the model to a precision of 0.98    Link to Github repository</description>
     </item>
     
     <item>
