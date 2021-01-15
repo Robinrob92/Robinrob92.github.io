@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Robin Chriqui</title>
+    <link>https://Robinrob92.github.io/Robin_Portfolio/post/</link>
+    <description>Recent content in Projects on Robin Chriqui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://Robinrob92.github.io/Robin_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Scientist VS Data Analyst: What are the differences ?</title>
+      <link>https://Robinrob92.github.io/Robin_Portfolio/post/project4/</link>
+      <pubDate>Thu, 14 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://Robinrob92.github.io/Robin_Portfolio/post/project4/</guid>
+      <description>I completed this project for my first Kaggle&amp;rsquo;s competition &amp;ldquo;Machine Learning Survey 2020&amp;rdquo;, I decided to focus my project on the main distinction between the Data Analyst and Data Scientist who answered the survey.
+Composition of dataset:   Age distribution: The population of Data Scientist and Data Analyst is quite young the majority of the respondents are under 35 years old.
+  Highest degree distribution: For both populations we can see an important part graduated with a master degree.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis of tweets about the Pfizer&#39;s Covid 19 vaccine</title>
+      <link>https://Robinrob92.github.io/Robin_Portfolio/post/project1/</link>
+      <pubDate>Thu, 19 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://Robinrob92.github.io/Robin_Portfolio/post/project1/</guid>
+      <description>Created a tool to understand the sentiment on Twitter about the new Vaccin Scraped over 10000 Tweets from the Twitter API with Tweepy Engineered the text to analyze the polarity with TextbBlob.sentiment Created visualization of the polarity    Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Turnover Prediction</title>
+      <link>https://Robinrob92.github.io/Robin_Portfolio/post/project2/</link>
+      <pubDate>Mon, 16 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://Robinrob92.github.io/Robin_Portfolio/post/project2/</guid>
+      <description>Created a model to predict the turnover in a company Explored and visualized the Dataset with Matplotlib, pandas and Numpy Processed and encoded the categorical feature to train a machine Learning Model Selected and trained a Random Forest Classifier Tuned and improved the model to a precision of 0.98    Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Predict electricity consumption</title>
+      <link>https://Robinrob92.github.io/Robin_Portfolio/post/project3/</link>
+      <pubDate>Mon, 09 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://Robinrob92.github.io/Robin_Portfolio/post/project3/</guid>
+      <description>Created a model to predict the electricity consumption in a building Processed and cleaned the data to improved the data quality and solved tidy issues Cleaned and Normalized the Dataset Train a KNeighborsRegressor to predict the target variable    Link to Github repository</description>
+    </item>
+    
+  </channel>
+</rss>
